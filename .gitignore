@@ -1,0 +1,19 @@
+# 언리얼 엔진 관련 파일
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# 빌드된 파일들
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 로그 파일
+*.log
+
+# 프로젝트 설정 파일 백업
+Config/*.ini~
